@@ -5,6 +5,10 @@ A simple, no-frills filament scale that tells you exactly how much filament is l
 
 If you're ever in doubt or confused, just ask you favorite Ai to help you build it. 
 
+3D Models: https://makerworld.com/en/models/3008595-filament-scale-how-much-filament-is-left#profileId-3378658
+
+
+
 ---
 
 ## Parts List
