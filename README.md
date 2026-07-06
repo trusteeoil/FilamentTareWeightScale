@@ -15,7 +15,7 @@ If you're ever in doubt or confused, just ask you favorite Ai to help you build 
 
 | Part | Notes |
 |---|---|
-| ESP32 Development Board (USB-C) | Elegoo or similar with CP2102 chip |
+| ESP32 Development Board (USB-C)  | Elegoo or similar with CP2102 chip | https://www.amazon.com/dp/B0D8T53CQ5 |
 | 5kg bar load cell | Comes with 4 wires (red, black, green, white) |
 | HX711 ADC module | Get one with E+/E-/A+/A- labeled |
 | 0.96" SSD1306 OLED display | Yellow/blue two-color I2C version, 128x64 |
