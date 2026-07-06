@@ -12,21 +12,18 @@ If you're ever in doubt or confused, just ask you favorite Ai to help you build 
 ---
 
 ## Parts List
-
-| Part | Notes |
-|---|---|
-| ESP32 Development Board (USB-C)  | Elegoo or similar with CP2102 chip | https://www.amazon.com/dp/B0D8T53CQ5 |
-| 5kg bar load cell | Comes with 4 wires (red, black, green, white) |
-| HX711 ADC module | Get one with E+/E-/A+/A- labeled |
-| 0.96" SSD1306 OLED display | Yellow/blue two-color I2C version, 128x64 |
-| M4x20mm screws | 4 total, for mounting load cell to printed plates |
-| M2x6mm screws + nuts + washers | For mounting the OLED to the case |
-| Dupont wires | Female to female |
-| Heat shrink tubing | For the 3.3V wire splice |
-| Electrical tape | For securing wire bundles and connections |
-| USB-C cable with inline rocker switch | For easy power on/off (recommended) |
-
-Total parts cost is typically under $20 when buying component packs.
+| Part | Notes | URL |
+|---|---|---|
+| ESP32 Development Board (USB-C) | Elegoo or similar with CP2102 chip | https://www.amazon.com/dp/B0D8T53CQ5 |
+| 5kg bar load cell | Comes with 4 wires (red, black, green, white) | https://www.amazon.com/dp/B09K7G3477 |
+| HX711 ADC module | Get one with E+/E-/A+/A- labeled | https://www.amazon.com/dp/B09K7G3477 |
+| 0.96" SSD1306 OLED display | Yellow/blue two-color I2C version, 128x64 | https://www.amazon.com/dp/B0D2RMQQHR |
+| M4x20mm screws | 4 total, for mounting load cell to printed plates | |
+| M2x6mm screws + nuts + washers | For mounting the OLED to the case | |
+| Dupont wires | Female to female | https://www.amazon.com/dp/B01EV70C78 |
+| Heat shrink tubing | For the 3.3V wire splice | |
+| Electrical tape | For securing wire bundles and connections | |
+| USB-C cable with inline rocker switch | For easy power on/off (recommended) | https://www.amazon.com/dp/B0G7YQPTYM |
 
 ---
 
