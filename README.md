@@ -16,7 +16,7 @@ If you're ever in doubt or confused, just ask you favorite Ai to help you build 
 |---|---|---|
 | ESP32 Development Board (USB-C) | Elegoo or similar with CP2102 chip | https://www.amazon.com/dp/B0D8T53CQ5 |
 | 5kg bar load cell | Comes with 4 wires (red, black, green, white) | https://www.amazon.com/dp/B09K7G3477 |
-| HX711 ADC module | Get one with E+/E-/A+/A- labeled | https://www.amazon.com/dp/B09K7G3477 |
+| HX711 ADC module | Get one with E+/E-/A+/A- labeled | Combo deal with bar load cell above |
 | 0.96" SSD1306 OLED display | Yellow/blue two-color I2C version, 128x64 | https://www.amazon.com/dp/B0D2RMQQHR |
 | M4x20mm screws | 4 total, for mounting load cell to printed plates | |
 | M2x6mm screws + nuts + washers | For mounting the OLED to the case | |
@@ -25,7 +25,10 @@ If you're ever in doubt or confused, just ask you favorite Ai to help you build 
 | Electrical tape | For securing wire bundles and connections | |
 | USB-C cable with inline rocker switch | For easy power on/off (recommended) | https://www.amazon.com/dp/B0G7YQPTYM |
 
+
 ---
+
+
 
 ## Tools Needed
 
